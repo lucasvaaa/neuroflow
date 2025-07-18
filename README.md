@@ -45,7 +45,8 @@ O **Neuroflow** é mais que um projeto — é um passo rumo ao futuro da educaç
 
 ## 📷 Imagem do Projeto
 
-![Capa do Projeto Neuroflow](C:\Users\SAMSUNG\OneDrive - IFRN\Documents\neuroflow\neuroflow\img\neuroflowidv.png)
+<img width="1920" height="1080" alt="Identidade-Projeto-Integrador" src="https://github.com/user-attachments/assets/07141c8c-b364-45d6-a23d-95de21e4e6b7" />
+
 
 
 > Interface futurista com foco educacional, elementos de neurociência e tecnologia, com design moderno, limpo e intuitivo.
